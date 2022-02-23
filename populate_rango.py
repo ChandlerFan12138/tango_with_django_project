@@ -12,17 +12,17 @@ def populate():
         {
             'title': 'Official Python Tutorial',
             'url': 'http://docs.python.org/3/tutorial/',
-            'views': 10
+            'views': 22
         },
         {
             'title': 'How to Think like a Computer Scientist',
             'url': 'http://www.greenteapress.com/thinkpython/',
-            'views':9
+            'views':33
         },
         {
             'title': 'Learn Python in 10 Minutes',
             'url': 'http://www.korokithakis.net/tutorials/python/',
-            'views':8
+            'views':44
         }
     ]
 
@@ -30,17 +30,17 @@ def populate():
         {
             'title':'Official Django Tutorial',
             'url': 'https://docs.djangoproject.com/en/2.1/intro/tutorial01/',
-            'views':7
+            'views':77
         },
         {
             'title':'Django Rocks',
             'url': 'http://www.djangorocks.com/',
-            'views':6
+            'views':88
         },
         {
             'title':'How to Tango with Django',
             'url': 'http://www.tangowithdjango.com/',
-            'views':5
+            'views':99
         }
     ]
 
@@ -48,12 +48,12 @@ def populate():
         {
             'title':'Bottle',
             'url': 'http://bottlepy.org/docs/dev/',
-            'views':4
+            'views':44
         },
         {
             'title':'Flask',
             'url': 'http://flask.pocoo.org',
-            'views':3
+            'views':33
         }
     ]
 
