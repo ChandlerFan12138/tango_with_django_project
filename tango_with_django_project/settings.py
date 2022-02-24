@@ -24,6 +24,7 @@ MEDIA_URL = '/media/'
 
 
 
+
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
@@ -34,7 +35,7 @@ SECRET_KEY = ')$er6@b&m1!ulmecvt=bj0x4c)n^7u37#_t3pysrs#ylkib++b'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+LOGIN_URL = 'rango:login'
 
 # Application definition
 
